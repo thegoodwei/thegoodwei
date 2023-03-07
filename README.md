@@ -1,5 +1,7 @@
 Living life @thegoodwei
 
-Passionate about publishing Content as Currency on Web3.
+"Someday I'll rewrite my bio...
+                                in Rust"
 
+Buy me coffeeth
 thegoodwei.loopring.eth
