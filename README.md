@@ -16,7 +16,7 @@ Audio/Video: FFmpeg, Whisper, PyDub
 Data: SQLite, PostgreSQL, Redis
 DevOps: Docker, Git
 
-##💡 Focus Areas
+## 💡 Focus Areas
 
 Large-scale audio/video processing
 Transformer-based text analysis
